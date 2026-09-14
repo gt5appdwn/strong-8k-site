@@ -1,0 +1,9 @@
+# Robots.txt for Strong 8K
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://ultrastrong8k.shop/sitemap.xml
